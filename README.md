@@ -47,12 +47,12 @@ Questa guida nasce per aiutarme e chi legge a prepararci in modo ottimale per i 
 ### Contro Malice <a name="contro-malice"></a>
 
 **Come funziona:**  
-Deck link-based, punta a salire rapidamente su [Maliss <Q> Ransom Rosso ](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=20585) e [
+Deck link-based, punta a salire rapidamente su [Maliss <Q> Red Ransom](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=20585) e [
 Maliss <Q> White Binder](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=20586) usando engine Cyberso e climbing tramite [Splash Mage](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=15034&request_locale=en).
 
 **Carte chiave da usare:**
 - **Ash Blossom/Imperm/Veiler**: Blocca Red Ransom/White Binder appena possibile.
-- **Imperm/Veiler**: Su Splash Mage (specialmente quando è targettata) o Backup @Ignister.
+- **Imperm/Veiler**: Su Splash Mage (specialmente quando è targettata) o [Backup @Ignister.](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=21139)
 - **Bystial**: Può interrompere climbing se usata su monster chiave.
 
 **Strategie di gioco:**
@@ -67,7 +67,7 @@ Se l’avversario evoca Splash Mage e la targetta, usa Imperm/Veiler per impedir
 ### Contro Ryzeal <a name="contro-ryzeal"></a>
 
 **Come funziona:**  
-Deck Rank 4/Xyz, con engine misti. Punti nevralgici: Ryzeal Duel Drive, Detonator e Sword Ryzeal.
+Deck Rank 4/Xyz, con engine misti. Punti nevralgici: [Ryzeal Duo Drive](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=20577&request_locale=en), Detonator e [Sword Ryzeal](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=20572).
 
 **Carte chiave da usare:**
 - **Imperm/Veiler**: Su Duel Drive o Sword Ryzeal appena vengono evocati normalmente.
