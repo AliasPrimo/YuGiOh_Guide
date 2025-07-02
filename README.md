@@ -95,11 +95,12 @@ Deck ritual, con possibilità di ibridazione. Choke point su spell rituale, [Hab
 - **[Dominus Impulse](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&request_locale=en&cid=20555)**: Se disponibile, nega la ritual spell.
 
 **Strategie di gioco:**
-- Game 1: Fermare la spell rituale o Habakiri.
-- Game 2/3: Side-in aggressivo con Droll e carte che bloccano le ricerche.
+- Game 1: Fermare la spell rituale o [Habakiri](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=21349&request_locale=it) .
+- Game 2/3: Side-in aggressivo con **[Droll & Lock Bird](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=9279&request_locale=it)**
+ e carte che bloccano le ricerche.
 
 **Esempio pratico:**  
-Se il tuo avversario parte con Saji, usa Ash su di lui prima che la catena delle ricerche inizi.
+Se il tuo avversario parte con [Saji](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=21057&request_locale=it), usa Ash su di lui prima che la catena delle ricerche inizi.
 
 ---
 
