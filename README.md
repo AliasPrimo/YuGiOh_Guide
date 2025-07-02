@@ -1,11 +1,11 @@
-# Guida Torneo Competitiva Yu-Gi-Oh!  
-**Come prepararsi e vincere contro ogni meta deck**
+# Guida Generale Per Torneo Yu-Gi-Oh!  
+**Come prepararsi e cercare di vincere**
 
 ---
 
 ## Introduzione
 
-Questa guida nasce per aiutarti a prepararti in modo ottimale per i tornei competitivi di Yu-Gi-Oh!, con strategie mirate contro i principali mazzi del meta attuale. Troverai sezioni dedicate a ciascun deck avversario, con spiegazioni dettagliate sulle carte chiave per contrastarli, strategie di gioco per ogni fase del match e consigli pratici di side deck.
+Questa guida nasce per aiutarme e chi legge a prepararci in modo ottimale per i tornei di Yu-Gi-Oh!, con strategie mirate contro i principali mazzi del meta attuale/futuro che verranno man mano aggiunti. In questo README ci saranno sezioni dedicate a ciascun deck, con spiegazioni sulle carte chiave per contrastarli, strategie di gioco per ogni fase del match e consigli pratici di side deck, tutto in modo sintetico, poi ognuno ha il suo file specifico con molte più informazioni.
 
 ---
 
@@ -33,7 +33,7 @@ Questa guida nasce per aiutarti a prepararti in modo ottimale per i tornei compe
 
 - **Scegli un mazzo che conosci bene**, non solo quello “più forte” del momento.
 - Analizza i meta deck più giocati e prepara una match-up chart con punti di forza/debolezza del tuo deck contro i top deck.
-- Inserisci nel side deck carte universali (Ash, Nibiru, Droll, Imperm) e “silver bullet” per match-up problematici.
+- Inserisci nel side deck carte universali (Ash, Nibiru, Droll, Imperm) e “silver bullet” (ovvero carte usate specificatamente per caunterare alcuni mazzi) per match-up problematici.
 - Allenati con test hands e simulazioni di side-in/side-out per non improvvisare durante il torneo.
 - Ricorda la gestione del tempo: gioca velocemente, evita slow play.
 - Cura la legalità delle carte, delle sleeve e della lista.
@@ -47,7 +47,7 @@ Questa guida nasce per aiutarti a prepararti in modo ottimale per i tornei compe
 ### Contro Malice <a name="contro-malice"></a>
 
 **Come funziona:**  
-Deck link-based, punta a salire rapidamente su Red Ransom e White Binder usando engine Cybers e climbing tramite Splash Mage.
+Deck link-based, punta a salire rapidamente su [Maliss <Q> Ransom Rosso (Maliss <Q> Red Ransom)](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=20585) e https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=20586 usando engine Cyberso e climbing tramite [Splash Mage](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=15034&request_locale=en).
 
 **Carte chiave da usare:**
 - **Ash Blossom/Imperm/Veiler**: Blocca Red Ransom/White Binder appena possibile.
