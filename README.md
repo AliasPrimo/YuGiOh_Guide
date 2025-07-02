@@ -60,39 +60,39 @@ Maliss <Q> White Binder](https://www.db.yugioh-card.com/yugiohdb/card_search.act
 - Game 2/3: Attento a crossout designator. Gioca le tue interruzioni quando l’avversario ha già esaurito i "dodge".
 
 **Esempio pratico:**  
-Se l’avversario evoca Splash Mage e la targetta, usa Imperm/Veiler per impedirgli di recuperare risorse.
+Se l’avversario evoca Splash Mage e la targetta, usa [Imperm](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13631&request_locale=it)/[Veiler](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=8933) per impedirgli di recuperare risorse.
 
 ---
 
 ### Contro Ryzeal <a name="contro-ryzeal"></a>
 
 **Come funziona:**  
-Deck Rank 4/Xyz, con engine misti. Punti nevralgici: [Ryzeal Duo Drive](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=20577&request_locale=en), Detonator e [Sword Ryzeal](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=20572).
+Deck Rank 4/Xyz, con engine misti. Punti nevralgici: [Ryzeal Duo Drive](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=20577&request_locale=en), [Detonator](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=20578) e [Sword Ryzeal](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=20572).
 
 **Carte chiave da usare:**
-- **Imperm/Veiler**: Su Duel Drive o Sword Ryzeal appena vengono evocati normalmente.
-- **Droll & Lock Bird**: Fermare le ricerche multiple, soprattutto in apertura.
-- **Ash Blossom**: Su effetti di ricerca chiave.
+- **[Imperm](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13631&request_locale=it)/[Veiler](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=8933)**: Su [Ryzeal Duo Drive](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=20577&request_locale=en), o [Sword Ryzeal](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=20572) appena vengono evocati normalmente.
+- **[Droll & Lock Bird](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=9279&request_locale=it)**: Fermare le ricerche multiple, soprattutto in apertura.
+- **[Ash Blossom](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=12950)**: Su effetti di ricerca chiave.
 
 **Strategie di gioco:**
-- Game 1: Blocca le ricerche, non aspettare troppo a usare Droll.
-- Game 2/3: Inserisci carte per togliere Detonator dal campo (Book of Eclipse, Cosmic Cyclone).
+- Game 1: Blocca le ricerche, non aspettare troppo a usare [Droll & Lock Bird](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=9279&request_locale=it).
+- Game 2/3: Inserisci carte per togliere Detonator dal campo ([Book of Eclipse](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=7752&request_locale=en), [Cosmic Cyclone](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=12464)).
 
 **Esempio pratico:**  
-Se l’avversario attiva Detonator, prepara già un out nella tua side-in.
+Se l’avversario attiva [Detonator](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=20578), prepara già un out nella tua side-in.
 
 ---
 
 ### Contro Mitsurugi <a name="contro-mitsurugi"></a>
 
 **Come funziona:**  
-Deck ritual, con possibilità di ibridazione. Choke point su spell rituale, Habakiri (starter), Ame-no-Murakumo (boss).
+Deck ritual, con possibilità di ibridazione. Choke point su spell rituale, [Habakiri](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=21349&request_locale=it) (starter), [Ame-no-Murakumo](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=21054&request_locale=it) (boss).
 
 **Carte chiave da usare:**
-- **Ash Blossom**: Su ricerca spell rituale o Saji.
-- **Imperm/Veiler**: Su Murakumo o Saji.
-- **Droll**: Fortissima, può chiudere subito il turno avversario.
-- **Dominus Impulse**: Se disponibile, nega la ritual spell.
+- **[Ash Blossom](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=12950)**: Su ricerca spell rituale o Saji.
+- **[Imperm](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13631&request_locale=it)/[Veiler](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=8933)**: Su Murakumo o Saji.
+- **[Droll & Lock Bird](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=9279&request_locale=it)**: Fortissima, può chiudere subito il turno avversario.
+- **[Dominus Impulse](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&request_locale=en&cid=20555)**: Se disponibile, nega la ritual spell.
 
 **Strategie di gioco:**
 - Game 1: Fermare la spell rituale o Habakiri.
