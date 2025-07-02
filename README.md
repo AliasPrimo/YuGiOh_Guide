@@ -47,7 +47,8 @@ Questa guida nasce per aiutarme e chi legge a prepararci in modo ottimale per i 
 ### Contro Malice <a name="contro-malice"></a>
 
 **Come funziona:**  
-Deck link-based, punta a salire rapidamente su [Maliss <Q> Ransom Rosso (Maliss <Q> Red Ransom)](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=20585) e https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=20586 usando engine Cyberso e climbing tramite [Splash Mage](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=15034&request_locale=en).
+Deck link-based, punta a salire rapidamente su [Maliss <Q> Ransom Rosso ](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=20585) e [
+Maliss <Q> White Binder](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=20586) usando engine Cyberso e climbing tramite [Splash Mage](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=15034&request_locale=en).
 
 **Carte chiave da usare:**
 - **Ash Blossom/Imperm/Veiler**: Blocca Red Ransom/White Binder appena possibile.
