@@ -100,21 +100,23 @@ Deck ritual, con possibilità di ibridazione. Choke point su spell rituale, [Hab
  e carte che bloccano le ricerche.
 
 **Esempio pratico:**  
-Se il tuo avversario parte con [Saji](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=21057&request_locale=it), usa Ash su di lui prima che la catena delle ricerche inizi.
+Se il tuo avversario parte con [Saji](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=21057&request_locale=it), usa **[Ash Blossom](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=12950)**: 
+ su di lui prima che la catena delle ricerche inizi.
 
 ---
 
 ### Contro Memento <a name="contro-memento"></a>
 
 **Come funziona:**  
-Deck graveyard-centric, si basa su fusioni rapide e quick-play dodge (Bone Party, Grand Breakout).
+Deck graveyard-centric, si basa su fusioni rapide e quick-play dodge ([Bone Party](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=19368&request_locale=en), [Grand Breakout](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=20533&request_locale=en)).
 
 **Carte chiave da usare:**
-- **Ash Blossom**: Su Tatsunosho Shigo o Fusion.
-- **Imperm/Veiler**: Solo dopo che l’avversario ha usato i dodge (Bone Party).
-- **Dimension Shifter**: Devastante, spegne il mazzo.
-- **Ghost Belle / D.D. Crow**: Su revival.
-- **Cosmic Cyclone**: Su field spell.
+- **[Ash Blossom](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=12950)**: Su Tatsunosho Shigo o Fusion.
+- **[Imperm](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13631&request_locale=it)/[Veiler](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=8933)**: Solo dopo che l’avversario ha usato i dodge (Bone Party).
+- **[Dimension Shifter](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14740)**: Devastante, spegne il mazzo.
+- **[Ghost Belle](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13587&request_locale=en) / [D.D. Crow](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=6980&request_locale=it)**: Su revival.
+- **[Cosmic Cyclone](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=12464)
+**: Su field spell.
 
 **Strategie di gioco:**
 - Game 1: Shifter se sei going first, Ash sulle fusioni.
